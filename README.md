@@ -1,5 +1,3 @@
-# Tweet_Cleaner
-
 import sys
 import re
 import hunspell
